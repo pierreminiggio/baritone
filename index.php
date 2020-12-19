@@ -1,5 +1,5 @@
 <?php
-    $link = 'https://ggio.link/apprendre-php';
+    $link = 'https://ggio.link/baritone-obsessed';
     header('Location: ' . $link);
 ?><!DOCTYPE html>
 <html lang="en">
@@ -9,6 +9,6 @@
     <title>Apprendre PHP</title>
 </head>
 <body>
-    <a href="<?php echo $link ?>">Cliquer pour être redirigé sur <?php echo $link ?></a>
+    <a href="<?php echo $link ?>">Click here to go to the group.</a>
 </body>
 </html>
